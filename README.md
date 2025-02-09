@@ -1,1 +1,25 @@
 # learning-material
+https://github.com/SELinuxProject/selinux-notebook/blob/main/src/core_components.md
+https://m.youtube.com/watch?v=_WOKRaM-HI4
+https://www.youtube.com/watch?v=Q5wRvkn07p8
+https://github.com/theja0473/My-Lib-Books-1/blob/master/UnderStanding%20The%20Linux%20Kernel%203rd%20Edition%20V413HAV.pdf
+https://www.cyberciti.biz/faq/understanding-etcshadow-file/
+https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
+https://crackstation.net/
+https://crackstation.net/hashing-security.htm
+https://inszoneinsurance.com/blog/cyberattack-mgm-resort-explained
+https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html
+https://github.com/SELinuxProject/selinux-notebook/blob/main/src/core_components.md
+https://m.youtube.com/watch?v=_WOKRaM-HI4
+https://py3.codeskulptor.org/#user310_5zfA1i760Q_0.py
+https://github.com/kpsubedi/programming/blob/master/python_programming/working_with_algp/code.py
+https://www.overleaf.com/learn
+https://www.youtube.com/watch?v=U2-JPqrALsA
+https://github.com/SELinuxProject/selinux-notebook/blob/main/src/terminology.md
+https://unpaywall.org/
+https://lnkd.in/dXVVQpUf
+https://paperpanda.app/
+https://doaj.org/
+https://oa.mg/
+https://core.ac.uk/
+https://arxiv.org/
